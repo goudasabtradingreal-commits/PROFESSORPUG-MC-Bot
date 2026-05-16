@@ -1,7 +1,7 @@
 {
   "name": "NeshKeepsRunning",
   "bot-account": {
-    "username": "SERVERBOT",
+    "username": "NeshKeepsRunning",
     "password": "",
     "type": "offline"
   },
@@ -33,7 +33,7 @@
       "messages": [
         "Hello Eldric",
         "Drickle",
-        "Snake"
+        "I am Eldric"
       ]
     },
     "chat-log": true,
