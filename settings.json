@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ForeverSMP-UCwZ.aternos.me:25836",
+    "ip": "ForeverSMP-UCwZ.aternos.me",
     "port": 25836,
     "version": "",
     "try-creative": false
